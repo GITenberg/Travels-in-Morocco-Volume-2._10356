@@ -1,0 +1,25 @@
+_repo: Travels-in-Morocco-Volume-2._10356
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richardson, James
+    birthdate: 1806
+    deathdate: 1851
+    gutenberg_agent_id: '3485'
+    url: http://www.gutenberg.org/2009/agents/3485
+    wikipedia: http://en.wikipedia.org/wiki/James_Richardson_%28explorer_of_the_Sahara%29
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Morocco -- Description and travel'
+- GITenberg
+title: Travels in Morocco, Volume 2.
+url: http://www.gutenberg.org/ebooks/10356
